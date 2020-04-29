@@ -10,6 +10,7 @@ examples/mysql_debug
 examples/test_output
 mysql_config/mysql_config
 mariadb_config/libmariadb.pc
+/build_*/.vs
 
 # Keep empty directories:
 # Keep empty directories: >> .gitignore/.git*
