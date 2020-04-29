@@ -1,7 +1,6 @@
 
 module.exports = {
 	platforms: ['x86', 'x64'],
-	static: true,
 	files: [
 		['README'],
 		['include', 'include/mysql', [
